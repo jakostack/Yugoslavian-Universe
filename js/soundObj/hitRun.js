@@ -3,7 +3,7 @@ var rasG_cotoLoco =	{
 	title:"E Space - Miha Kralj",
 	file:"espace.mp3",
 	info:"Miha Kralj, born 22 August 1949, is a Slovene composer, singer, performer and record producer. He is a pioneer in the electronic, ambient and new-age musical genres in Slovenia and former SFR Yugoslavia. He is also called Yugoslavian Jean-Michel Jarre",
-	img:"img/galaxies/laGalaxy/hitRun/odyssey.png",
+	img:"img/galaxies/laGalaxy/hitRun/Odyssey.png",
 	links:[
 	],
 	 
