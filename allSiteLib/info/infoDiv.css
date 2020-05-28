@@ -1,0 +1,115 @@
+/* CSS Document */
+
+#infoButton{
+	z-index:999;
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:20px;
+	height:25px;
+	background:url(showInfo.png);
+   
+}
+
+
+#infoDiv{
+   font-family: sans-serif;
+   background:rgba(255, 255, 255, 0);
+   font-weight: 100;
+   font-size: 13px;
+	height:185px;
+	width:310px;
+	z-index:998;
+	position:absolute;
+	left:-294px;
+	top:-164px;
+	border:1px solid rgb(255, 255, 255);
+	display:none;
+	color:rgb(255, 255, 255);
+   
+}
+
+#infoNav{
+   margin-left:18px;
+}
+#infoNav a{
+display:inline-block;
+text-align:center;
+font-size: 13px;
+padding:0px 3px 0px 3px;
+margin:0px 3px 0px 3px;
+
+color:rgb(255, 255, 255);
+
+}
+
+#infoNav a:hover{
+   text-decoration:none;
+   box-shadow: 0px 1px 5px -1px rgb(110, 110, 110) inset;
+	   
+}
+
+#infoNav a.active{
+   
+   border-bottom:1px solid rgb(255, 255, 255);
+   
+}
+
+
+#infoBody  {
+   margin:10px;	
+}
+
+#infoBody h1{
+   font-size:13px;
+   font-weight: 100;
+}
+#infoBody p{
+   font-size:13px;
+}
+
+
+.infoContent a{
+   color:rgb(255, 255, 255);
+   text-decoration:none;	
+}
+
+.infoContent a:hover{
+   text-decoration:underline;	
+}
+
+.infoContent .left{
+   width:140px;
+   float:left;	
+   position:relative;
+   text-align: center;
+   display:inline-block;
+}
+.infoContent .right{
+   width:140px;
+   float:left;	
+   position:relative;
+   text-align: center;
+}
+
+.infoContent h3{
+margin-top: 0px;
+margin-bottom: 2px;
+text-decoration: underline;	
+}
+
+#mailLink{
+   padding-top:20px;
+   display: inline-block;
+   width: 100%;
+   text-align: center	
+}
+
+
+@font-face{
+
+	font-family: sans-serif;
+	src:"/Users/jacobmartensson/Library/Fonts/Aeonik-Light.ttf";
+	font-weight: 100;
+
+}
