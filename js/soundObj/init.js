@@ -1147,12 +1147,11 @@ NORTH AMERICA NORTH AMERICA NORTH AMERICA NORTH AMERICA NORTH AMERICA NORTH AMER
 		var brainfeeder = {
 			
 			
-			title:"Brainfeeder",
-			file:"teebs_jahara.mp3",
-			info : "Brainfeeder is an independent record label based in Los Angeles, California, founded by Flying Lotus in 2008, focusing on electronic music and instrumental hip hop. It has signed artists such as Flying Lotus, Daedelus, Lorn, Ras G, Samiyam, The Gaslamp Killer, Austin Peralta, Thundercat, Mono/Poly, Teebs, Martyn, Lapalux, Strangeloop, Taylor McFerrin, Jeremiah Jae and Tokimonsta.",
+			title:"Miki Jevremovic - Bices moja",
+			file:"Miki Jevremovic - Bices moja.mp3",
+			info : "",
 			links:[
-				["Music: Teebs - Jahara","https://soundcloud.com/teebsio"],
-				["Brainfeeder Website","http://brainfeedersite.com"]
+				[""]
 			],
 
 			radius:10000,
@@ -1197,13 +1196,13 @@ NORTH AMERICA NORTH AMERICA NORTH AMERICA NORTH AMERICA NORTH AMERICA NORTH AMER
 			
 			
 			
-			title:"Friends of Friends",
-			file:"pcoat_division.mp3",
-			info:"While the music industry is getting a much needed make-over, for fans there lies a fresh opportunity to change the way we value and understand music as a whole. The Internet in many ways has been 'the great equalizer' for both artists and music fans giving us all new opportunities to release, buy and receive music. Artists are able to reach new listeners with ease, while interested fans have plenty of avenues to express their own voices online and discover something new. And while people aren't buying music at the stores at the same rate as in the past, they certainly are willing to support the people that make art they love. Fans still want something tangible and by evidence of current blog/Twitter culture, are seeming just as interested in the story and method as they are in the final product.<br/><br/>Thus leads way to the introduction of a new type of label called FoF Music (Friends of Friends), the name itself is the driving force behind the label and website, referring to the most effective way (yet traditional way!) people learn about new music: through Friends! The hope is to help re-invent how music is released in a way that is not only more involving for the artist (A&R, artwork, marketing) but more importantly truly enticing for the fans. We want to create releases that are inspiring for artists and fans alike; with the intention to create a product that is not a useless plastic memory holder but rather is worth the hard earned money spent to create and purchase.<br/><br/>Be on the lookout for the goodies to come via FoF Music!",
+			title:"Oskarova Fobija - Beli Dekolte",
+			file:"Oskarova Fobija - Beli Dekolte.mp3",
+			info:"More YugoPOP PLEASE!",
 			img:"img/galaxies/laGalaxy/fof/clusterLogo.png",
 			links:[
-				["Music: Pcoat - Division","http://www.facebook.com/pcoatpcoat"],
-				["Friends Of Friends Website","http://www.fofmusic.net/"],
+				[""],
+				
 			],
 			
 			 
