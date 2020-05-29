@@ -57,7 +57,7 @@ function sendPostcard(){
 
   var split = current.title.split(" ")
 
-  var shareURL = "https://jacobkouthoofdmartensson.myportfolio.com/"
+  var shareURL = "https://jakostack.github.io/Jugoton-Releases-Map/#"
 
   var toAdd=""
   
